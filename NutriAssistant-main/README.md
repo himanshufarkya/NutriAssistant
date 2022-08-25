@@ -8,6 +8,6 @@ Learning Outcomes:
 
 By the end of this project:
 
-## We did work with Spring boot, remote MySQL, Rapid API, and Heroku cloud deployment. 
+### We did work with Spring boot, remote MySQL, Rapid API, and Heroku cloud deployment. 
 
-## Made a spring boot application that helps users to maintain a healthy diet.
+### Made a spring boot application that helps users to maintain a healthy diet.
