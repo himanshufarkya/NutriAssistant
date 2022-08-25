@@ -1,5 +1,5 @@
-# NutriAssistant
-Nutro Assistant
+# Nutri Assistant
+
 
 Wellness and healthy lifestyles have become mainstream. Interest in fitness applications and revenue from them grow as fast as the number of people striving to be fit.
 
@@ -8,6 +8,6 @@ Learning Outcomes:
 
 By the end of this project:
 
-You’ll be able to work with Spring boot, remote MySQL, Rapid API, and Heroku cloud deployment. 
+## We did work with Spring boot, remote MySQL, Rapid API, and Heroku cloud deployment. 
 
-Build a spring boot application that helps users to maintain a healthy diet.
+## Made a spring boot application that helps users to maintain a healthy diet.
